@@ -32,3 +32,5 @@ reverse geocoding aka (lat,lng) => country
     
     scala> cities.map( c => lookup(c._1, c._2)) 
     res17: List[String] = List(United_States_of_America, India, Canada, Costa_Rica, United_States_of_America)
+    
+Note:Reverse Geocoding geometry courtesy Johan Sundstrom
