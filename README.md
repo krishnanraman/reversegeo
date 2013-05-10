@@ -1,4 +1,4 @@
-reversegeo:  
+reversegeocoding  
 ==========
     Convert (latitude,longitude) to Country
     Usage: CountryPolygons provides a get(lat, lng) API. 
