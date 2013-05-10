@@ -1,4 +1,4 @@
-reverse geocoding aka (lat,lng)=>country  
+reverse geocoding aka (lat,lng) => country  
 ==========
     Convert (latitude,longitude) to Country
     Usage: CountryPolygons provides a get(lat, lng) API. 
