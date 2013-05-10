@@ -1,4 +1,4 @@
-There are 179 countries isted in the countries.json. These get mapped to 288 distinct CountryPolygons.
+There are 179 countries listed in the countries.json. These get mapped to 288 distinct CountryPolygons.
 
 For eg. A typical country polygon in json looks like:
 Map(type -> Feature, id -> TWN, properties -> Map(name -> Taiwan), geometry -> Map(type -> Polygon, coordinates -> List(List(List(121.777818, 24.394274), List(121.175632, 22.790857), List(120.74708, 21.970571), List(120.220083, 22.814861), List(120.106189, 23.556263), List(120.69468, 24.538451), List(121.495044, 25.295459), List(121.951244, 24.997596), List(121.777818, 24.394274)))))
