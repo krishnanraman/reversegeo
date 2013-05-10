@@ -1,6 +1,8 @@
-reversegeo:  Convert (latitude,longitude) to Country
+reversegeo:  
 ==========
-Usage: CountryPolygons provides a get(lat,lng) API. Access via commond-line args, REPL, or programatically.
+    Convert (latitude,longitude) to Country
+    Usage: CountryPolygons provides a get(lat, lng) API. 
+    Access via commond-line args, REPL, or programatically.
 
     $ scalac CountryPolygons.scala 
     $ scala CountryPolygons 37.8 -122.0
